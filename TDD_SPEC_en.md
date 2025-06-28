@@ -72,8 +72,8 @@
 - [x] If no images — "No images" message is shown.
 
 ### 5.3. Image deletion tests
-- [ ] After deletion, image disappears from gallery and is removed from disk.
-- [ ] Attempt to delete non-existent image — error handled gracefully.
+- [x] After deletion, image disappears from gallery and is removed from disk.
+- [x] Attempt to delete non-existent image — error handled gracefully.
 
 ### 5.4. Security tests
 - [x] Attempt to upload malicious file — file is not saved.

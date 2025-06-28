@@ -80,4 +80,4 @@ galerieWebSite/
 ```
 
 ## Лицензия
-MIT (добавьте LICENSE при необходимости) 
+MIT

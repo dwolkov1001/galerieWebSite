@@ -80,4 +80,4 @@ galerieWebSite/
 ```
 
 ## License
-MIT (add LICENSE file if needed) 
+MIT
